@@ -1,0 +1,35 @@
+{
+  "p": "p'",
+  "help": {
+    "comandosdj": "**play** - Comece a tocar uma música no seu canal de voz atual\n **leave** - faça o bot de música sair do canal de voz atual",
+    "comandodc": "**ping** - Mostra sua latência com o Discord e a do bot\n **voiceinfo** - Mostra informações do seu canal de voz atual\n **botinfo** - Informações do bot Polari's\n **avatar** - Para ver sua foto de perfil ou de outras pessoas"
+  },
+  "users": {
+    "banned": [""]
+  },
+  "guilds": {
+    "banned": [""]
+  },
+  "edu": {
+    "id": "653531776521863169"
+  },
+  "karbox": {
+    "id": "545132312778637312"
+  },
+  "emoji": {
+    "javascript": "<:javascript:675100137705439243>",
+    "nodejs": "<:nodejs:675100776338817024>",
+    "joinha": "<joinha:675101698544631871>",
+    "ovelharainbow": "<a:ovelharainbow:675108745310896138>",
+    "dinosaru": "<a:dinosaru:675109776405037097>",
+    "ping": "<a:ping:675118154623746088>",
+    "pinguimdance": "<a:pinguimdance:675121397080653855>",
+    "pinguimpalma": "<a:pinguimpalma:675121444258185216>",
+    "menodoradio": "<:menodoradio:675432668032139314>",
+    "yes": "<a:yes:675434749795368985>",
+    "no": "<a:no:675434784842842113>",
+    "dj": "<a:dj:675771391563530291>",
+    "penguimlimpa": "<a:penguimlimpa:675771329613529114>",
+    "colordc": "<:colordc:675775219062931515>"
+  }
+}
